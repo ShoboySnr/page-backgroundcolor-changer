@@ -1,0 +1,46 @@
+[v-cloak] { 
+  display: none; 
+}
+
+#results-table_wrapper > .row {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#results-table_wrapper > .row .dataTables_length {
+  display: flex;
+}
+
+#results-table_wrapper > .row .dataTables_length select {
+  margin: 0 10px;
+}
+
+#results-table_wrapper > .row .dataTables_filter {
+  display: flex;
+}
+
+#results-table_wrapper > .row .dataTables_filter input {
+  margin-left: 10px;
+}
+
+#results-table_paginate .pagination {
+  justify-content: flex-end;
+  margin: 0 -10px;
+}
+
+#results-table_paginate .pagination li {
+  margin: 0 10px;
+}
+
+#results-table_paginate .pagination li a {
+  color: #f2552e !important;
+}
+
+#results-table .action-button {
+  display: flex;
+  margin: 0 -5px;
+}
+
+#results-table .action-button button {
+  margin: 0 5px;
+}

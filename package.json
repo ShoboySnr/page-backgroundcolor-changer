@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "toastify-js": "^1.6.2"
+  },
+  "devDependencies": {}
+}
